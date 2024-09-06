@@ -44,7 +44,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         <?php include('header.php'); ?>
         <div class="reultado">
             <h1><?php echo $signo; ?></h1>
-            <a href="index.php"><button>Voltar</button></a>
+            <a href="../index.php"><button>Voltar</button></a>
         </div>
 
     </div>
